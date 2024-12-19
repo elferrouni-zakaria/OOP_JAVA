@@ -1,7 +1,7 @@
 package collectction_ex;
 
 
-public class Clientfichier extends Client {
+public class Clientfidel extends Client {
     private String CodeFidelite;
     private float TauxReduction;
 
